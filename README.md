@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **yashsanap1404@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/14_nfxofPlkpVVC_DE5lSFbF-cZ37dBhcI72HMwuNb00/edit?usp=sharing](https://docs.google.com/document/d/14_nfxofPlkpVVC_DE5lSFbF-cZ37dBhcI72HMwuNb00/edit?usp=sharing)
+- 📄 Know about my experiences [YashSanap.pdf](https://docs.google.com/document/d/14_nfxofPlkpVVC_DE5lSFbF-cZ37dBhcI72HMwuNb00/edit?usp=sharing)
+
 
 - ⚡ Fun fact **🌐 The First Website: The world's first website, created by Tim Berners-Lee in 1991, is still online: info.cern.ch.**
 
